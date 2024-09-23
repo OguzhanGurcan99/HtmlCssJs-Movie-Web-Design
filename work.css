@@ -1,0 +1,16 @@
+.numbers{
+    background-color: black;
+    height: 50vh;
+    width: 50vw;
+    display: flex;
+    flex-flow: row;
+    position: relative;
+    left: 25vw;
+    top: 25vh;
+}
+
+.numbers button{
+    background-color: red;
+    height: 80px;
+    width: 80px;
+}
